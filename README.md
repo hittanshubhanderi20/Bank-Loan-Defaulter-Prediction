@@ -12,4 +12,4 @@ Overall, the Bank Loan Defaulter Prediction Project is an essential tool for fin
 2. PM-Project_Python:- Model in python programming code.
 3. PM-Project_Rstudio:- Model in R programming code.
 4. PM-Project_STR:- "str" file of the model of IBM SPSS Modeler.
-5. Link for the presentation of the project:- https://tome.app/ganpat-university-f5b/predicting-loan-defaulters-with-bayesian-networks-clgq2twpb01eb5m41m4fwfe9p 
+5. Link for the presentation of the project:- https://tome.app/ganpat-university-f5b/predicting-loan-defaulters-with-bayesian-networks-clgq2twpb01eb5m41m4fwfe9p
