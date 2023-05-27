@@ -1,2 +1,9 @@
 # Bank-Loan-Defaulter-Prediction
 To determine whether a loan will default or not.
+
+##Files Description:
+1. PM-Project_Report:- Report of the project.
+2. PM-Project_Python:- Model in python programming code.
+3. PM-Project_Rstudio:- Model in R programming code.
+4. PM-Project_STR:- "str" file of the model of IBM SPSS Modeler.
+5. Link for the presentation of the project:- https://tome.app/ganpat-university-f5b/predicting-loan-defaulters-with-bayesian-networks-clgq2twpb01eb5m41m4fwfe9p 
